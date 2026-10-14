@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "math-001",
+    "category": "Math",
+    "question": "What is the only even prime number?",
+    "answer": "2",
+    "explanation": "Every other even number is divisible by 2, so 2 stands alone as the only even prime.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a glowing golden numeral-shaped sculpture of two objects side by side among scattered pebbles, minimalist; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "prime numbers",
+      "number two",
+      "minimalist math"
+    ],
+    "x_post": "Quick trivia! What is the only even prime number? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 2 ✅ Every other even number is divisible by 2, so 2 stands alone as the only even prime.",
+    "instagram_caption": "What is the only even prime number?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Primenumbers #Numbertwo #Minimalistmath"
+  },
+  {
+    "id": "math-002",
+    "category": "Math",
+    "question": "Roughly how many ways can a standard 52-card deck be ordered?",
+    "answer": "About 8×10^67 (52!)",
+    "explanation": "That's so many that a well-shuffled deck is almost certainly in an order no deck has ever been in before.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a deck of playing cards fanned out mid-shuffle in the air, dramatic lighting; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "playing cards",
+      "card shuffle",
+      "deck of cards"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Roughly how many ways can a standard 52-card deck be ordered? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About 8×10^67 (52!) ✅ That's so many that a well-shuffled deck is almost certainly in an order no deck has ever been in before.",
+    "instagram_caption": "Roughly how many ways can a standard 52-card deck be ordered?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Playingcards #Cardshuffle #Deckofcards"
+  },
+  {
+    "id": "math-003",
+    "category": "Math",
+    "question": "How many people must be in a room for a better than 50% chance two share a birthday?",
+    "answer": "23",
+    "explanation": "With 23 people there are 253 possible pairs, which is why the odds climb so fast.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a colorful birthday party with many cakes and candles on a long table; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "birthday party",
+      "birthday cake",
+      "crowd"
+    ],
+    "x_post": "Test your brain: How many people must be in a room for a better than 50% chance two share a birthday? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 23 ✅ With 23 people there are 253 possible pairs, which is why the odds climb so fast.",
+    "instagram_caption": "How many people must be in a room for a better than 50% chance two share a birthday?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Birthdayparty #Birthdaycake #Crowd"
+  },
+  {
+    "id": "math-004",
+    "category": "Math",
+    "question": "What is the sum of all whole numbers from 1 to 100?",
+    "answer": "5050",
+    "explanation": "Legend says a young Carl Friedrich Gauss solved it instantly by pairing 1+100, 2+99 and so on: 50 pairs of 101.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of an old 18th-century schoolroom with a slate board and chalk, warm light; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "old classroom",
+      "chalkboard",
+      "vintage school"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the sum of all whole numbers from 1 to 100? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 5050 ✅ Legend says a young Carl Friedrich Gauss solved it instantly by pairing 1+100, 2+99 and so on: 50 pairs of 101.",
+    "instagram_caption": "What is the sum of all whole numbers from 1 to 100?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Oldclassroom #Chalkboard #Vintageschool"
+  },
+  {
+    "id": "math-005",
+    "category": "Math",
+    "question": "Which number has no symbol in Roman numerals?",
+    "answer": "Zero",
+    "explanation": "The Romans had no numeral for zero; the concept as a number came later via Indian mathematicians.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of ancient Roman marble ruins with carved columns at golden hour; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "roman ruins",
+      "ancient rome",
+      "marble columns"
+    ],
+    "x_post": "Trivia time! Which number has no symbol in Roman numerals? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Zero ✅ The Romans had no numeral for zero; the concept as a number came later via Indian mathematicians.",
+    "instagram_caption": "Which number has no symbol in Roman numerals?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Romanruins #Ancientrome #Marblecolumns"
+  },
+  {
+    "id": "math-006",
+    "category": "Math",
+    "question": "What is 0! (zero factorial)?",
+    "answer": "1",
+    "explanation": "There is exactly one way to arrange zero objects: do nothing. That convention makes many formulas work.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of an empty minimalist white room with a single spotlight on the floor; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "empty room",
+      "minimalism",
+      "spotlight"
+    ],
+    "x_post": "Think you know? What is 0! (zero factorial)? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 1 ✅ There is exactly one way to arrange zero objects: do nothing. That convention makes many formulas work.",
+    "instagram_caption": "What is 0! (zero factorial)?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Emptyroom #Minimalism #Spotlight"
+  },
+  {
+    "id": "math-007",
+    "category": "Math",
+    "question": "What shape do honeybees build their honeycomb cells in?",
+    "answer": "Hexagons",
+    "explanation": "Hexagons tile a surface using the least wall per area; Thomas Hales proved this 'honeycomb conjecture' in 1999.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of macro shot of golden honeycomb dripping with honey and a bee; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "honeycomb",
+      "bees",
+      "honey macro"
+    ],
+    "x_post": "Quick trivia! What shape do honeybees build their honeycomb cells in? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Hexagons ✅ Hexagons tile a surface using the least wall per area; Thomas Hales proved this 'honeycomb conjecture' in 1999.",
+    "instagram_caption": "What shape do honeybees build their honeycomb cells in?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Honeycomb #Bees #Honeymacro"
+  },
+  {
+    "id": "math-008",
+    "category": "Math",
+    "question": "What is the smallest number expressible as the sum of two cubes in two different ways?",
+    "answer": "1729",
+    "explanation": "Ramanujan noticed it from a hospital bed: 1³+12³ = 9³+10³. It's now called the 'taxicab number'.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a vintage London taxi cab on a foggy 1910s street; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "vintage taxi",
+      "london street",
+      "foggy city"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What is the smallest number expressible as the sum of two cubes in two different ways? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 1729 ✅ Ramanujan noticed it from a hospital bed: 1³+12³ = 9³+10³. It's now called the 'taxicab number'.",
+    "instagram_caption": "What is the smallest number expressible as the sum of two cubes in two different ways?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Vintagetaxi #Londonstreet #Foggycity"
+  },
+  {
+    "id": "math-009",
+    "category": "Math",
+    "question": "What do you call a number equal to the sum of its proper divisors, like 6 or 28?",
+    "answer": "A perfect number",
+    "explanation": "6 = 1+2+3. Every known perfect number is even; nobody knows if an odd one exists.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of six perfectly arranged smooth river stones balanced in harmony; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "balanced stones",
+      "zen",
+      "harmony"
+    ],
+    "x_post": "Test your brain: What do you call a number equal to the sum of its proper divisors, like 6 or 28? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: A perfect number ✅ 6 = 1+2+3. Every known perfect number is even; nobody knows if an odd one exists.",
+    "instagram_caption": "What do you call a number equal to the sum of its proper divisors, like 6 or 28?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Balancedstones #Zen #Harmony"
+  },
+  {
+    "id": "math-010",
+    "category": "Math",
+    "question": "What is the name for 10 to the power of 100?",
+    "answer": "A googol",
+    "explanation": "Google's name came from a misspelling of 'googol', chosen to suggest huge amounts of information.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a vast starry sky over a desert suggesting enormous scale; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "starry sky",
+      "infinity",
+      "vast desert"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the name for 10 to the power of 100? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: A googol ✅ Google's name came from a misspelling of 'googol', chosen to suggest huge amounts of information.",
+    "instagram_caption": "What is the name for 10 to the power of 100?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Starrysky #Infinity #Vastdesert"
+  },
+  {
+    "id": "math-011",
+    "category": "Math",
+    "question": "What is 111,111,111 × 111,111,111?",
+    "answer": "12,345,678,987,654,321",
+    "explanation": "The digits climb from 1 to 9 and back down, a palindrome born from simple multiplication.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a symmetrical mirrored staircase rising and descending; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "symmetry",
+      "staircase",
+      "mirror"
+    ],
+    "x_post": "Trivia time! What is 111,111,111 × 111,111,111? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 12,345,678,987,654,321 ✅ The digits climb from 1 to 9 and back down, a palindrome born from simple multiplication.",
+    "instagram_caption": "What is 111,111,111 × 111,111,111?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Symmetry #Staircase #Mirror"
+  },
+  {
+    "id": "math-012",
+    "category": "Math",
+    "question": "How many Platonic solids are there?",
+    "answer": "5",
+    "explanation": "Euclid proved only five convex shapes have identical regular faces: tetrahedron, cube, octahedron, dodecahedron, icosahedron.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of five glass geometric solids on a dark surface catching light; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "geometric shapes",
+      "polyhedra",
+      "crystal"
+    ],
+    "x_post": "Think you know? How many Platonic solids are there? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 5 ✅ Euclid proved only five convex shapes have identical regular faces: tetrahedron, cube, octahedron, dodecahedron, icosahedron.",
+    "instagram_caption": "How many Platonic solids are there?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Geometricshapes #Polyhedra #Crystal"
+  },
+  {
+    "id": "math-013",
+    "category": "Math",
+    "question": "Which math symbol did Robert Recorde invent in 1557 because 'no two things can be more equal'?",
+    "answer": "The equals sign (=)",
+    "explanation": "He used two parallel lines; his original version was much longer than today's.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of an antique book open on a wooden desk with a quill and inkwell; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "antique book",
+      "quill pen",
+      "old manuscript"
+    ],
+    "x_post": "Quick trivia! Which math symbol did Robert Recorde invent in 1557 because 'no two things can be more equal'? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The equals sign (=) ✅ He used two parallel lines; his original version was much longer than today's.",
+    "instagram_caption": "Which math symbol did Robert Recorde invent in 1557 because 'no two things can be more equal'?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Antiquebook #Quillpen #Oldmanuscript"
+  },
+  {
+    "id": "math-014",
+    "category": "Math",
+    "question": "Which number comes after 21 in the Fibonacci sequence?",
+    "answer": "34",
+    "explanation": "Each term is the sum of the two before it (13+21). Fibonacci numbers show up in sunflower seed spirals.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of close-up of a sunflower head showing spiral seed patterns; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sunflower",
+      "spiral",
+      "fibonacci"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which number comes after 21 in the Fibonacci sequence? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 34 ✅ Each term is the sum of the two before it (13+21). Fibonacci numbers show up in sunflower seed spirals.",
+    "instagram_caption": "Which number comes after 21 in the Fibonacci sequence?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Sunflower #Spiral #Fibonacci"
+  },
+  {
+    "id": "math-015",
+    "category": "Math",
+    "question": "Who finally proved Fermat's Last Theorem in the 1990s?",
+    "answer": "Andrew Wiles",
+    "explanation": "Fermat claimed a proof in 1637 that wouldn't fit in a margin; Wiles' proof came about 358 years later.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a margin of an old book page with a candle nearby, moody; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "old book",
+      "candlelight",
+      "mathematics"
+    ],
+    "x_post": "Test your brain: Who finally proved Fermat's Last Theorem in the 1990s? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Andrew Wiles ✅ Fermat claimed a proof in 1637 that wouldn't fit in a margin; Wiles' proof came about 358 years later.",
+    "instagram_caption": "Who finally proved Fermat's Last Theorem in the 1990s?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Oldbook #Candlelight #Mathematics"
+  },
+  {
+    "id": "math-016",
+    "category": "Math",
+    "question": "What is the only English number word whose letters are in alphabetical order?",
+    "answer": "Forty",
+    "explanation": "F-O-R-T-Y: each letter comes later in the alphabet than the one before.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of wooden alphabet blocks arranged in a neat row on a table; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "alphabet blocks",
+      "letters",
+      "wooden toys"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the only English number word whose letters are in alphabetical order? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Forty ✅ F-O-R-T-Y: each letter comes later in the alphabet than the one before.",
+    "instagram_caption": "What is the only English number word whose letters are in alphabetical order?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Alphabetblocks #Letters #Woodentoys"
+  },
+  {
+    "id": "math-017",
+    "category": "Math",
+    "question": "About how many degrees are in one radian?",
+    "answer": "About 57.3°",
+    "explanation": "A radian is the angle where the arc length equals the radius, so a full circle is 2π radians.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a giant compass drawing a circle on parchment; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "compass",
+      "circle",
+      "geometry"
+    ],
+    "x_post": "Trivia time! About how many degrees are in one radian? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About 57.3° ✅ A radian is the angle where the arc length equals the radius, so a full circle is 2π radians.",
+    "instagram_caption": "About how many degrees are in one radian?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Compass #Circle #Geometry"
+  },
+  {
+    "id": "math-018",
+    "category": "Math",
+    "question": "How many digits repeat in the decimal for 1/7?",
+    "answer": "6 (142857)",
+    "explanation": "Multiply 142857 by 2 through 6 and you get the same six digits rotated: 285714, 428571...",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a circular carousel of six glowing lights in the dark; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "cycle",
+      "circle of lights",
+      "carousel"
+    ],
+    "x_post": "Think you know? How many digits repeat in the decimal for 1/7? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 6 (142857) ✅ Multiply 142857 by 2 through 6 and you get the same six digits rotated: 285714, 428571...",
+    "instagram_caption": "How many digits repeat in the decimal for 1/7?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Cycle #Circleoflights #Carousel"
+  },
+  {
+    "id": "math-019",
+    "category": "Math",
+    "question": "What do mathematicians call the square root of −1?",
+    "answer": "i, the imaginary unit",
+    "explanation": "Despite the name, imaginary numbers are essential in electrical engineering and quantum physics.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of an abstract swirling fractal in vivid colors; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "fractal",
+      "abstract math",
+      "complex numbers"
+    ],
+    "x_post": "Quick trivia! What do mathematicians call the square root of −1? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: i, the imaginary unit ✅ Despite the name, imaginary numbers are essential in electrical engineering and quantum physics.",
+    "instagram_caption": "What do mathematicians call the square root of −1?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Fractal #Abstractmath #Complexnumbers"
+  },
+  {
+    "id": "math-020",
+    "category": "Math",
+    "question": "What do the interior angles of a triangle on a flat surface add up to?",
+    "answer": "180°",
+    "explanation": "On a sphere they add to more: a triangle from the North Pole to the equator can have three 90° angles.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a globe with a triangle traced from the north pole to the equator; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "globe",
+      "triangle",
+      "geometry"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What do the interior angles of a triangle on a flat surface add up to? #Math #MathFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 180° ✅ On a sphere they add to more: a triangle from the North Pole to the equator can have three 90° angles.",
+    "instagram_caption": "What do the interior angles of a triangle on a flat surface add up to?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Math #MathFacts #Trivia #DidYouKnow #FunFacts #Globe #Triangle #Geometry"
+  },
+  {
+    "id": "hist-001",
+    "category": "History",
+    "question": "Who was the first emperor of Rome?",
+    "answer": "Augustus",
+    "explanation": "Born Octavian, he was Julius Caesar's adopted heir; Caesar himself was never emperor.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a marble bust of a Roman emperor in a sunlit museum hall; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "roman emperor",
+      "marble bust",
+      "augustus"
+    ],
+    "x_post": "Test your brain: Who was the first emperor of Rome? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Augustus ✅ Born Octavian, he was Julius Caesar's adopted heir; Caesar himself was never emperor.",
+    "instagram_caption": "Who was the first emperor of Rome?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Romanemperor #Marblebust #Augustus"
+  },
+  {
+    "id": "hist-002",
+    "category": "History",
+    "question": "How long did the Hundred Years' War actually last?",
+    "answer": "116 years",
+    "explanation": "It ran from 1337 to 1453 between England and France, with long truces in between.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of medieval knights on horseback across a misty battlefield; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "medieval knights",
+      "battlefield",
+      "castle"
+    ],
+    "x_post": "Most people get this wrong 👀 How long did the Hundred Years' War actually last? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 116 years ✅ It ran from 1337 to 1453 between England and France, with long truces in between.",
+    "instagram_caption": "How long did the Hundred Years' War actually last?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Medievalknights #Battlefield #Castle"
+  },
+  {
+    "id": "hist-003",
+    "category": "History",
+    "question": "Whose nearly intact tomb did Howard Carter discover in 1922?",
+    "answer": "Tutankhamun",
+    "explanation": "Tut was a minor boy-king; his tomb's fame comes from being found largely unplundered.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of golden Egyptian funerary mask glowing in a dark tomb; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "tutankhamun",
+      "egyptian gold",
+      "tomb"
+    ],
+    "x_post": "Trivia time! Whose nearly intact tomb did Howard Carter discover in 1922? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Tutankhamun ✅ Tut was a minor boy-king; his tomb's fame comes from being found largely unplundered.",
+    "instagram_caption": "Whose nearly intact tomb did Howard Carter discover in 1922?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Tutankhamun #Egyptiangold #Tomb"
+  },
+  {
+    "id": "hist-004",
+    "category": "History",
+    "question": "Which war is often cited as the shortest in history?",
+    "answer": "The Anglo-Zanzibar War (1896)",
+    "explanation": "It lasted roughly 38 to 45 minutes before Zanzibar surrendered.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a 19th-century harbor with steam warships off a tropical coast; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "zanzibar",
+      "old warship",
+      "harbor"
+    ],
+    "x_post": "Think you know? Which war is often cited as the shortest in history? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Anglo-Zanzibar War (1896) ✅ It lasted roughly 38 to 45 minutes before Zanzibar surrendered.",
+    "instagram_caption": "Which war is often cited as the shortest in history?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Zanzibar #Oldwarship #Harbor"
+  },
+  {
+    "id": "hist-005",
+    "category": "History",
+    "question": "Did Cleopatra live closer in time to the Moon landing or to the building of the Great Pyramid?",
+    "answer": "The Moon landing",
+    "explanation": "The Great Pyramid was built around 2560 BC, about 2,500 years before Cleopatra; she died in 30 BC.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of the Great Pyramid at sunset under a rising full moon; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "great pyramid",
+      "giza",
+      "full moon"
+    ],
+    "x_post": "Quick trivia! Did Cleopatra live closer in time to the Moon landing or to the building of the Great Pyramid? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Moon landing ✅ The Great Pyramid was built around 2560 BC, about 2,500 years before Cleopatra; she died in 30 BC.",
+    "instagram_caption": "Did Cleopatra live closer in time to the Moon landing or to the building of the Great Pyramid?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Greatpyramid #Giza #Fullmoon"
+  },
+  {
+    "id": "hist-006",
+    "category": "History",
+    "question": "Which of the Seven Wonders of the Ancient World is still standing?",
+    "answer": "The Great Pyramid of Giza",
+    "explanation": "It is also the oldest of the seven, and was the tallest human-made structure for over 3,800 years.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of the pyramids of Giza in golden desert light; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "pyramids",
+      "giza",
+      "desert"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which of the Seven Wonders of the Ancient World is still standing? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Great Pyramid of Giza ✅ It is also the oldest of the seven, and was the tallest human-made structure for over 3,800 years.",
+    "instagram_caption": "Which of the Seven Wonders of the Ancient World is still standing?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Pyramids #Giza #Desert"
+  },
+  {
+    "id": "hist-007",
+    "category": "History",
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "1989",
+    "explanation": "It opened on November 9, 1989, partly after an official mistakenly announced border crossings were allowed immediately.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of crowds celebrating atop a graffiti-covered concrete wall at night; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "berlin wall",
+      "graffiti",
+      "celebration"
+    ],
+    "x_post": "Test your brain: In what year did the Berlin Wall fall? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 1989 ✅ It opened on November 9, 1989, partly after an official mistakenly announced border crossings were allowed immediately.",
+    "instagram_caption": "In what year did the Berlin Wall fall?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Berlinwall #Graffiti #Celebration"
+  },
+  {
+    "id": "hist-008",
+    "category": "History",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie",
+    "explanation": "She won in Physics (1903) and Chemistry (1911), still the only person with Nobels in two different sciences.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of an early 1900s laboratory with glowing vials and glassware; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "vintage laboratory",
+      "science history",
+      "glassware"
+    ],
+    "x_post": "Most people get this wrong 👀 Who was the first woman to win a Nobel Prize? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Marie Curie ✅ She won in Physics (1903) and Chemistry (1911), still the only person with Nobels in two different sciences.",
+    "instagram_caption": "Who was the first woman to win a Nobel Prize?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Vintagelaboratory #Sciencehistory #Glassware"
+  },
+  {
+    "id": "hist-009",
+    "category": "History",
+    "question": "Which is older: the University of Oxford or the Aztec city of Tenochtitlan?",
+    "answer": "Oxford",
+    "explanation": "Teaching at Oxford existed by 1096; Tenochtitlan was founded around 1325.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of gothic stone college towers at dawn with mist; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "oxford",
+      "gothic architecture",
+      "university"
+    ],
+    "x_post": "Trivia time! Which is older: the University of Oxford or the Aztec city of Tenochtitlan? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Oxford ✅ Teaching at Oxford existed by 1096; Tenochtitlan was founded around 1325.",
+    "instagram_caption": "Which is older: the University of Oxford or the Aztec city of Tenochtitlan?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Oxford #Gothicarchitecture #University"
+  },
+  {
+    "id": "hist-010",
+    "category": "History",
+    "question": "Which empire did Mansa Musa, often called history's richest man, rule?",
+    "answer": "The Mali Empire",
+    "explanation": "His 1324 pilgrimage to Mecca reportedly spent so much gold in Cairo that it lowered gold's value there.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a grand mud-brick mosque in the Sahel under a blazing sky; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "timbuktu",
+      "mali",
+      "mud mosque"
+    ],
+    "x_post": "Think you know? Which empire did Mansa Musa, often called history's richest man, rule? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Mali Empire ✅ His 1324 pilgrimage to Mecca reportedly spent so much gold in Cairo that it lowered gold's value there.",
+    "instagram_caption": "Which empire did Mansa Musa, often called history's richest man, rule?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Timbuktu #Mali #Mudmosque"
+  },
+  {
+    "id": "hist-011",
+    "category": "History",
+    "question": "What did the Inca use instead of writing to record numbers and data?",
+    "answer": "Quipu (knotted cords)",
+    "explanation": "Colored strings with knots encoded numbers in a base-10 system, used to run a huge empire.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of colorful knotted cords hanging against Andean stone walls; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "quipu",
+      "inca",
+      "andes"
+    ],
+    "x_post": "Quick trivia! What did the Inca use instead of writing to record numbers and data? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Quipu (knotted cords) ✅ Colored strings with knots encoded numbers in a base-10 system, used to run a huge empire.",
+    "instagram_caption": "What did the Inca use instead of writing to record numbers and data?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Quipu #Inca #Andes"
+  },
+  {
+    "id": "hist-012",
+    "category": "History",
+    "question": "Which country gave the Statue of Liberty to the United States?",
+    "answer": "France",
+    "explanation": "It was originally a shiny copper-brown; its green color is a natural patina that formed over decades.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of the Statue of Liberty at sunrise over the harbor; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "statue of liberty",
+      "new york",
+      "harbor"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which country gave the Statue of Liberty to the United States? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: France ✅ It was originally a shiny copper-brown; its green color is a natural patina that formed over decades.",
+    "instagram_caption": "Which country gave the Statue of Liberty to the United States?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Statueofliberty #Newyork #Harbor"
+  },
+  {
+    "id": "hist-013",
+    "category": "History",
+    "question": "Which U.S. president served the shortest time in office?",
+    "answer": "William Henry Harrison",
+    "explanation": "He died 31 days after his 1841 inauguration, the first U.S. president to die in office.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a 19th-century American government building in winter; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "white house",
+      "history",
+      "vintage america"
+    ],
+    "x_post": "Test your brain: Which U.S. president served the shortest time in office? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: William Henry Harrison ✅ He died 31 days after his 1841 inauguration, the first U.S. president to die in office.",
+    "instagram_caption": "Which U.S. president served the shortest time in office?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Whitehouse #Vintageamerica"
+  },
+  {
+    "id": "hist-014",
+    "category": "History",
+    "question": "In what year was Magna Carta sealed?",
+    "answer": "1215",
+    "explanation": "King John agreed to it at Runnymede; most of its clauses were later repealed, but its ideas shaped modern law.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a medieval parchment with a wax seal on a wooden table; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "magna carta",
+      "parchment",
+      "wax seal"
+    ],
+    "x_post": "Most people get this wrong 👀 In what year was Magna Carta sealed? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 1215 ✅ King John agreed to it at Runnymede; most of its clauses were later repealed, but its ideas shaped modern law.",
+    "instagram_caption": "In what year was Magna Carta sealed?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Magnacarta #Parchment #Waxseal"
+  },
+  {
+    "id": "hist-015",
+    "category": "History",
+    "question": "Who posted the 95 Theses in 1517, sparking the Protestant Reformation?",
+    "answer": "Martin Luther",
+    "explanation": "The printing press let his ideas spread across Europe in weeks.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a heavy wooden church door with parchment nailed to it; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "church door",
+      "reformation",
+      "parchment"
+    ],
+    "x_post": "Trivia time! Who posted the 95 Theses in 1517, sparking the Protestant Reformation? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Martin Luther ✅ The printing press let his ideas spread across Europe in weeks.",
+    "instagram_caption": "Who posted the 95 Theses in 1517, sparking the Protestant Reformation?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Churchdoor #Reformation #Parchment"
+  },
+  {
+    "id": "hist-016",
+    "category": "History",
+    "question": "Which Roman city was buried by Mount Vesuvius in AD 79?",
+    "answer": "Pompeii",
+    "explanation": "The ash preserved the city so well that bread loaves and graffiti survived.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of ancient ruins of Pompeii with Vesuvius looming behind; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "pompeii",
+      "vesuvius",
+      "ruins"
+    ],
+    "x_post": "Think you know? Which Roman city was buried by Mount Vesuvius in AD 79? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Pompeii ✅ The ash preserved the city so well that bread loaves and graffiti survived.",
+    "instagram_caption": "Which Roman city was buried by Mount Vesuvius in AD 79?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Pompeii #Vesuvius #Ruins"
+  },
+  {
+    "id": "hist-017",
+    "category": "History",
+    "question": "Which civilization built Machu Picchu?",
+    "answer": "The Inca",
+    "explanation": "It was likely an estate for Emperor Pachacuti and remained hidden from the Spanish conquerors.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of Machu Picchu terraces shrouded in morning clouds; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "machu picchu",
+      "peru",
+      "mountains"
+    ],
+    "x_post": "Quick trivia! Which civilization built Machu Picchu? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Inca ✅ It was likely an estate for Emperor Pachacuti and remained hidden from the Spanish conquerors.",
+    "instagram_caption": "Which civilization built Machu Picchu?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Machupicchu #Peru #Mountains"
+  },
+  {
+    "id": "hist-018",
+    "category": "History",
+    "question": "What artifact, found in 1799, unlocked Egyptian hieroglyphs?",
+    "answer": "The Rosetta Stone",
+    "explanation": "It carries the same decree in hieroglyphic, Demotic and Greek, letting scholars compare them.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a dark carved granite slab with dense inscriptions under museum light; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "rosetta stone",
+      "hieroglyphs",
+      "museum"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What artifact, found in 1799, unlocked Egyptian hieroglyphs? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Rosetta Stone ✅ It carries the same decree in hieroglyphic, Demotic and Greek, letting scholars compare them.",
+    "instagram_caption": "What artifact, found in 1799, unlocked Egyptian hieroglyphs?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Rosettastone #Hieroglyphs #Museum"
+  },
+  {
+    "id": "hist-019",
+    "category": "History",
+    "question": "Who founded the Mongol Empire, the largest contiguous land empire in history?",
+    "answer": "Genghis Khan",
+    "explanation": "At its peak the empire stretched from Korea to Eastern Europe.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of mounted horsemen galloping across vast Mongolian steppe; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "mongolia",
+      "steppe",
+      "horsemen"
+    ],
+    "x_post": "Test your brain: Who founded the Mongol Empire, the largest contiguous land empire in history? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Genghis Khan ✅ At its peak the empire stretched from Korea to Eastern Europe.",
+    "instagram_caption": "Who founded the Mongol Empire, the largest contiguous land empire in history?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Mongolia #Steppe #Horsemen"
+  },
+  {
+    "id": "hist-020",
+    "category": "History",
+    "question": "Who completed the first circumnavigation of the globe after Magellan was killed?",
+    "answer": "Juan Sebastián Elcano",
+    "explanation": "Magellan died in the Philippines in 1521; Elcano brought the ship Victoria home in 1522.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a 16th-century sailing ship on stormy open ocean; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sailing ship",
+      "ocean voyage",
+      "galleon"
+    ],
+    "x_post": "Most people get this wrong 👀 Who completed the first circumnavigation of the globe after Magellan was killed? #History #HistoryFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Juan Sebastián Elcano ✅ Magellan died in the Philippines in 1521; Elcano brought the ship Victoria home in 1522.",
+    "instagram_caption": "Who completed the first circumnavigation of the globe after Magellan was killed?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#History #HistoryFacts #Trivia #DidYouKnow #FunFacts #Sailingship #Oceanvoyage #Galleon"
+  },
+  {
+    "id": "geo-001",
+    "category": "Geography",
+    "question": "What is the largest hot desert in the world?",
+    "answer": "The Sahara",
+    "explanation": "Antarctica is the largest desert overall; deserts are defined by low precipitation, not heat.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of endless golden Sahara dunes at sunset; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sahara",
+      "sand dunes",
+      "desert"
+    ],
+    "x_post": "Trivia time! What is the largest hot desert in the world? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Sahara ✅ Antarctica is the largest desert overall; deserts are defined by low precipitation, not heat.",
+    "instagram_caption": "What is the largest hot desert in the world?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Sahara #Sanddunes #Desert"
+  },
+  {
+    "id": "geo-002",
+    "category": "Geography",
+    "question": "Which country has the most time zones?",
+    "answer": "France",
+    "explanation": "Thanks to overseas territories from the Pacific to the Indian Ocean, France spans 12 time zones.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a collage of tropical islands and a European city at different times of day; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "time zones",
+      "world clock",
+      "islands"
+    ],
+    "x_post": "Think you know? Which country has the most time zones? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: France ✅ Thanks to overseas territories from the Pacific to the Indian Ocean, France spans 12 time zones.",
+    "instagram_caption": "Which country has the most time zones?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Timezones #Worldclock #Islands"
+  },
+  {
+    "id": "geo-003",
+    "category": "Geography",
+    "question": "What is the deepest known point in Earth's oceans?",
+    "answer": "The Challenger Deep (Mariana Trench)",
+    "explanation": "It's about 10,900 m deep; Everest would fit inside with over 2 km of water to spare.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a deep blue ocean abyss with light rays fading into darkness; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "deep ocean",
+      "abyss",
+      "underwater"
+    ],
+    "x_post": "Quick trivia! What is the deepest known point in Earth's oceans? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Challenger Deep (Mariana Trench) ✅ It's about 10,900 m deep; Everest would fit inside with over 2 km of water to spare.",
+    "instagram_caption": "What is the deepest known point in Earth's oceans?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Deepocean #Abyss #Underwater"
+  },
+  {
+    "id": "geo-004",
+    "category": "Geography",
+    "question": "Which country has the most lakes?",
+    "answer": "Canada",
+    "explanation": "Canada has more lakes than the rest of the world combined, by most counts.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a turquoise lake surrounded by evergreen forest and mountains; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "canada lake",
+      "wilderness",
+      "mountains"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which country has the most lakes? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Canada ✅ Canada has more lakes than the rest of the world combined, by most counts.",
+    "instagram_caption": "Which country has the most lakes?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Canadalake #Wilderness #Mountains"
+  },
+  {
+    "id": "geo-005",
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City",
+    "explanation": "At about 0.44 km², it's smaller than many city parks.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of aerial view of St. Peter's Square and dome; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "vatican",
+      "st peters",
+      "rome"
+    ],
+    "x_post": "Test your brain: What is the smallest country in the world? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Vatican City ✅ At about 0.44 km², it's smaller than many city parks.",
+    "instagram_caption": "What is the smallest country in the world?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Vatican #Stpeters #Rome"
+  },
+  {
+    "id": "geo-006",
+    "category": "Geography",
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "explanation": "It was purpose-built as a compromise because Sydney and Melbourne both wanted to be the capital.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a planned city around a lake in Australia at dawn; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "canberra",
+      "australia",
+      "lake"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the capital of Australia? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Canberra ✅ It was purpose-built as a compromise because Sydney and Melbourne both wanted to be the capital.",
+    "instagram_caption": "What is the capital of Australia?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Canberra #Australia #Lake"
+  },
+  {
+    "id": "geo-007",
+    "category": "Geography",
+    "question": "Which continent has the most countries?",
+    "answer": "Africa",
+    "explanation": "Africa has 54 UN-recognized countries.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a satellite-style view of Africa at night; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "africa",
+      "continent",
+      "satellite"
+    ],
+    "x_post": "Trivia time! Which continent has the most countries? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Africa ✅ Africa has 54 UN-recognized countries.",
+    "instagram_caption": "Which continent has the most countries?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Africa #Continent #Satellite"
+  },
+  {
+    "id": "geo-008",
+    "category": "Geography",
+    "question": "Which country lies in all four hemispheres?",
+    "answer": "Kiribati",
+    "explanation": "Its islands straddle both the equator and the 180th meridian.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a remote Pacific atoll with turquoise lagoon from above; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "kiribati",
+      "atoll",
+      "pacific"
+    ],
+    "x_post": "Think you know? Which country lies in all four hemispheres? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Kiribati ✅ Its islands straddle both the equator and the 180th meridian.",
+    "instagram_caption": "Which country lies in all four hemispheres?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Kiribati #Atoll #Pacific"
+  },
+  {
+    "id": "geo-009",
+    "category": "Geography",
+    "question": "Which lake is the world's deepest?",
+    "answer": "Lake Baikal",
+    "explanation": "At over 1,600 m deep, it holds roughly a fifth of the world's unfrozen surface fresh water.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of clear blue ice cracks on frozen Lake Baikal; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "lake baikal",
+      "frozen lake",
+      "siberia"
+    ],
+    "x_post": "Quick trivia! Which lake is the world's deepest? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Lake Baikal ✅ At over 1,600 m deep, it holds roughly a fifth of the world's unfrozen surface fresh water.",
+    "instagram_caption": "Which lake is the world's deepest?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Lakebaikal #Frozenlake #Siberia"
+  },
+  {
+    "id": "geo-010",
+    "category": "Geography",
+    "question": "Which country has the longest coastline?",
+    "answer": "Canada",
+    "explanation": "Its coastline is over 200,000 km long, thanks to thousands of Arctic islands.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a rugged northern coastline with icebergs; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "canada coast",
+      "arctic",
+      "icebergs"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which country has the longest coastline? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Canada ✅ Its coastline is over 200,000 km long, thanks to thousands of Arctic islands.",
+    "instagram_caption": "Which country has the longest coastline?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Canadacoast #Arctic #Icebergs"
+  },
+  {
+    "id": "geo-011",
+    "category": "Geography",
+    "question": "Which U.S. state is closest to Africa?",
+    "answer": "Maine",
+    "explanation": "Quoddy Head in Maine is the closest U.S. point to Africa, not Florida.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a red-and-white lighthouse on a rocky Atlantic shore; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "maine",
+      "lighthouse",
+      "atlantic"
+    ],
+    "x_post": "Test your brain: Which U.S. state is closest to Africa? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Maine ✅ Quoddy Head in Maine is the closest U.S. point to Africa, not Florida.",
+    "instagram_caption": "Which U.S. state is closest to Africa?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Maine #Lighthouse #Atlantic"
+  },
+  {
+    "id": "geo-012",
+    "category": "Geography",
+    "question": "Which mountain is tallest when measured from base to peak?",
+    "answer": "Mauna Kea",
+    "explanation": "Measured from its base on the sea floor it's about 10,200 m, taller than Everest; most of it is underwater.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a volcanic summit above the clouds with observatory domes at sunset; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "mauna kea",
+      "hawaii",
+      "volcano"
+    ],
+    "x_post": "Most people get this wrong 👀 Which mountain is tallest when measured from base to peak? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Mauna Kea ✅ Measured from its base on the sea floor it's about 10,200 m, taller than Everest; most of it is underwater.",
+    "instagram_caption": "Which mountain is tallest when measured from base to peak?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Maunakea #Hawaii #Volcano"
+  },
+  {
+    "id": "geo-013",
+    "category": "Geography",
+    "question": "Which river flows through the most countries?",
+    "answer": "The Danube",
+    "explanation": "It passes through 10 countries and four capital cities.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a grand riverside parliament building along a wide river at night; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "danube",
+      "budapest",
+      "river"
+    ],
+    "x_post": "Trivia time! Which river flows through the most countries? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Danube ✅ It passes through 10 countries and four capital cities.",
+    "instagram_caption": "Which river flows through the most countries?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Danube #Budapest #River"
+  },
+  {
+    "id": "geo-014",
+    "category": "Geography",
+    "question": "Which European country is shaped like a boot?",
+    "answer": "Italy",
+    "explanation": "The 'heel' and 'toe' even kick toward Sicily like a football.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a satellite view of the Italian peninsula; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "italy",
+      "map",
+      "mediterranean"
+    ],
+    "x_post": "Think you know? Which European country is shaped like a boot? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Italy ✅ The 'heel' and 'toe' even kick toward Sicily like a football.",
+    "instagram_caption": "Which European country is shaped like a boot?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Italy #Map #Mediterranean"
+  },
+  {
+    "id": "geo-015",
+    "category": "Geography",
+    "question": "What is the world's largest island that isn't a continent?",
+    "answer": "Greenland",
+    "explanation": "Despite the name, about 80% of it is covered by an ice sheet.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of massive ice sheet and fjords in Greenland; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "greenland",
+      "iceberg",
+      "fjord"
+    ],
+    "x_post": "Quick trivia! What is the world's largest island that isn't a continent? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Greenland ✅ Despite the name, about 80% of it is covered by an ice sheet.",
+    "instagram_caption": "What is the world's largest island that isn't a continent?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Greenland #Iceberg #Fjord"
+  },
+  {
+    "id": "geo-016",
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "answer": "The Pacific",
+    "explanation": "It covers more area than all Earth's land combined.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of vast calm Pacific Ocean horizon at sunrise; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "pacific ocean",
+      "horizon",
+      "sea"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What is the largest ocean on Earth? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The Pacific ✅ It covers more area than all Earth's land combined.",
+    "instagram_caption": "What is the largest ocean on Earth?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Pacificocean #Horizon #Sea"
+  },
+  {
+    "id": "geo-017",
+    "category": "Geography",
+    "question": "Which city sits on two continents?",
+    "answer": "Istanbul",
+    "explanation": "The Bosphorus Strait splits it between Europe and Asia.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of Istanbul skyline with mosques along the Bosphorus at sunset; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "istanbul",
+      "bosphorus",
+      "skyline"
+    ],
+    "x_post": "Test your brain: Which city sits on two continents? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Istanbul ✅ The Bosphorus Strait splits it between Europe and Asia.",
+    "instagram_caption": "Which city sits on two continents?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Istanbul #Bosphorus #Skyline"
+  },
+  {
+    "id": "geo-018",
+    "category": "Geography",
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa",
+    "explanation": "Queen Victoria chose it in 1857, partly as a compromise between English and French Canada.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of Gothic parliament buildings on a hill above a river in autumn; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "ottawa",
+      "parliament",
+      "canada"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the capital of Canada? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Ottawa ✅ Queen Victoria chose it in 1857, partly as a compromise between English and French Canada.",
+    "instagram_caption": "What is the capital of Canada?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Ottawa #Parliament #Canada"
+  },
+  {
+    "id": "geo-019",
+    "category": "Geography",
+    "question": "What is the lowest point on dry land on Earth?",
+    "answer": "The shores of the Dead Sea",
+    "explanation": "They sit about 430 m below sea level, and the water is so salty you float effortlessly.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a person floating in the Dead Sea with salt formations; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "dead sea",
+      "salt",
+      "floating"
+    ],
+    "x_post": "Trivia time! What is the lowest point on dry land on Earth? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The shores of the Dead Sea ✅ They sit about 430 m below sea level, and the water is so salty you float effortlessly.",
+    "instagram_caption": "What is the lowest point on dry land on Earth?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Deadsea #Salt #Floating"
+  },
+  {
+    "id": "geo-020",
+    "category": "Geography",
+    "question": "Which country has more ancient pyramids than Egypt?",
+    "answer": "Sudan",
+    "explanation": "Sudan has around 200 Nubian pyramids, steeper and smaller than Egypt's.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of rows of steep Nubian pyramids in the Sudanese desert; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sudan pyramids",
+      "meroe",
+      "desert"
+    ],
+    "x_post": "Think you know? Which country has more ancient pyramids than Egypt? #Geography #Travel\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Sudan ✅ Sudan has around 200 Nubian pyramids, steeper and smaller than Egypt's.",
+    "instagram_caption": "Which country has more ancient pyramids than Egypt?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Geography #Travel #Trivia #DidYouKnow #FunFacts #Sudanpyramids #Meroe #Desert"
+  },
+  {
+    "id": "sci-001",
+    "category": "Science",
+    "question": "Which metal is liquid at room temperature?",
+    "answer": "Mercury",
+    "explanation": "It's the only metal that is liquid under standard conditions; bromine is the only liquid nonmetal.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of silvery liquid mercury beads on a dark surface; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "mercury",
+      "liquid metal",
+      "chemistry"
+    ],
+    "x_post": "Quick trivia! Which metal is liquid at room temperature? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Mercury ✅ It's the only metal that is liquid under standard conditions; bromine is the only liquid nonmetal.",
+    "instagram_caption": "Which metal is liquid at room temperature?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Mercury #Liquidmetal #Chemistry"
+  },
+  {
+    "id": "sci-002",
+    "category": "Science",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "answer": "Nitrogen",
+    "explanation": "About 78% of the air is nitrogen; oxygen is only about 21%.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a blue sky with layered atmosphere seen from high altitude; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "atmosphere",
+      "sky",
+      "air"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What is the most abundant gas in Earth's atmosphere? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Nitrogen ✅ About 78% of the air is nitrogen; oxygen is only about 21%.",
+    "instagram_caption": "What is the most abundant gas in Earth's atmosphere?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Atmosphere #Sky #Air"
+  },
+  {
+    "id": "sci-003",
+    "category": "Science",
+    "question": "What is the hardest naturally occurring material?",
+    "answer": "Diamond",
+    "explanation": "It's pure carbon, the same element as soft pencil graphite, just in a different crystal structure.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a brilliant cut diamond sparkling on black velvet; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "diamond",
+      "gemstone",
+      "carbon"
+    ],
+    "x_post": "Test your brain: What is the hardest naturally occurring material? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Diamond ✅ It's pure carbon, the same element as soft pencil graphite, just in a different crystal structure.",
+    "instagram_caption": "What is the hardest naturally occurring material?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Diamond #Gemstone #Carbon"
+  },
+  {
+    "id": "sci-004",
+    "category": "Science",
+    "question": "Why is gold's chemical symbol 'Au'?",
+    "answer": "From Latin 'aurum'",
+    "explanation": "Aurum roughly means 'shining dawn'.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of glowing gold nuggets in a prospector's pan; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "gold",
+      "nuggets",
+      "chemistry"
+    ],
+    "x_post": "Most people get this wrong 👀 Why is gold's chemical symbol 'Au'? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: From Latin 'aurum' ✅ Aurum roughly means 'shining dawn'.",
+    "instagram_caption": "Why is gold's chemical symbol 'Au'?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Gold #Nuggets #Chemistry"
+  },
+  {
+    "id": "sci-005",
+    "category": "Science",
+    "question": "Which element has the chemical symbol K?",
+    "answer": "Potassium",
+    "explanation": "K comes from 'kalium', the Neo-Latin name.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of potassium reacting with water producing violet flame; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "potassium",
+      "chemical reaction",
+      "flame"
+    ],
+    "x_post": "Trivia time! Which element has the chemical symbol K? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Potassium ✅ K comes from 'kalium', the Neo-Latin name.",
+    "instagram_caption": "Which element has the chemical symbol K?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Potassium #Chemicalreaction #Flame"
+  },
+  {
+    "id": "sci-006",
+    "category": "Science",
+    "question": "How many bones does an adult human have?",
+    "answer": "206",
+    "explanation": "Babies are born with around 270 to 300; many fuse together as we grow.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of an anatomical skeleton model under soft studio light; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "skeleton",
+      "anatomy",
+      "bones"
+    ],
+    "x_post": "Think you know? How many bones does an adult human have? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 206 ✅ Babies are born with around 270 to 300; many fuse together as we grow.",
+    "instagram_caption": "How many bones does an adult human have?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Skeleton #Anatomy #Bones"
+  },
+  {
+    "id": "sci-007",
+    "category": "Science",
+    "question": "Which letter of the alphabet doesn't appear on the periodic table?",
+    "answer": "J",
+    "explanation": "No element name or symbol uses the letter J.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a colorful periodic table rendered as glowing tiles, abstract, no text; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "periodic table",
+      "chemistry",
+      "elements"
+    ],
+    "x_post": "Quick trivia! Which letter of the alphabet doesn't appear on the periodic table? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: J ✅ No element name or symbol uses the letter J.",
+    "instagram_caption": "Which letter of the alphabet doesn't appear on the periodic table?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Periodictable #Chemistry #Elements"
+  },
+  {
+    "id": "sci-008",
+    "category": "Science",
+    "question": "At roughly what temperature does water boil on top of Mount Everest?",
+    "answer": "About 70°C (158°F)",
+    "explanation": "Lower air pressure at altitude lets water boil at a lower temperature.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a camping stove boiling water on a snowy Himalayan ridge; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "everest",
+      "camping stove",
+      "mountain"
+    ],
+    "x_post": "Bet you can't get this one 🧠 At roughly what temperature does water boil on top of Mount Everest? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About 70°C (158°F) ✅ Lower air pressure at altitude lets water boil at a lower temperature.",
+    "instagram_caption": "At roughly what temperature does water boil on top of Mount Everest?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Everest #Campingstove #Mountain"
+  },
+  {
+    "id": "sci-009",
+    "category": "Science",
+    "question": "Which human organ can regrow to full size after a large part is removed?",
+    "answer": "The liver",
+    "explanation": "It can regenerate from as little as about a quarter of its tissue.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of an artistic glowing medical illustration of a human liver; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "liver",
+      "anatomy",
+      "medical"
+    ],
+    "x_post": "Test your brain: Which human organ can regrow to full size after a large part is removed? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The liver ✅ It can regenerate from as little as about a quarter of its tissue.",
+    "instagram_caption": "Which human organ can regrow to full size after a large part is removed?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Liver #Anatomy #Medical"
+  },
+  {
+    "id": "sci-010",
+    "category": "Science",
+    "question": "What makes bananas slightly radioactive?",
+    "answer": "Potassium-40",
+    "explanation": "Bananas are rich in potassium, a tiny fraction of which is the radioactive isotope K-40; the dose is harmless.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a bunch of bananas with a subtle glowing aura; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "bananas",
+      "radioactivity",
+      "fruit"
+    ],
+    "x_post": "Most people get this wrong 👀 What makes bananas slightly radioactive? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Potassium-40 ✅ Bananas are rich in potassium, a tiny fraction of which is the radioactive isotope K-40; the dose is harmless.",
+    "instagram_caption": "What makes bananas slightly radioactive?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Bananas #Radioactivity #Fruit"
+  },
+  {
+    "id": "sci-011",
+    "category": "Science",
+    "question": "Who published the general theory of relativity in 1915?",
+    "answer": "Albert Einstein",
+    "explanation": "GPS satellites must correct for relativity or their positions would drift by kilometers a day.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a GPS satellite orbiting above Earth; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "einstein",
+      "gps satellite",
+      "relativity"
+    ],
+    "x_post": "Trivia time! Who published the general theory of relativity in 1915? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Albert Einstein ✅ GPS satellites must correct for relativity or their positions would drift by kilometers a day.",
+    "instagram_caption": "Who published the general theory of relativity in 1915?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Einstein #Gpssatellite #Relativity"
+  },
+  {
+    "id": "sci-012",
+    "category": "Science",
+    "question": "What is the most abundant element in the universe?",
+    "answer": "Hydrogen",
+    "explanation": "About three-quarters of all normal matter is hydrogen, most of it formed shortly after the Big Bang.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a colorful nebula glowing with hydrogen gas; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "nebula",
+      "hydrogen",
+      "cosmos"
+    ],
+    "x_post": "Think you know? What is the most abundant element in the universe? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Hydrogen ✅ About three-quarters of all normal matter is hydrogen, most of it formed shortly after the Big Bang.",
+    "instagram_caption": "What is the most abundant element in the universe?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Nebula #Hydrogen #Cosmos"
+  },
+  {
+    "id": "sci-013",
+    "category": "Science",
+    "question": "What is the most abundant element in Earth's crust?",
+    "answer": "Oxygen",
+    "explanation": "About 46% of the crust by mass is oxygen, locked inside rocks and minerals.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a close-up of colorful layered rock strata; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "rock layers",
+      "geology",
+      "minerals"
+    ],
+    "x_post": "Quick trivia! What is the most abundant element in Earth's crust? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Oxygen ✅ About 46% of the crust by mass is oxygen, locked inside rocks and minerals.",
+    "instagram_caption": "What is the most abundant element in Earth's crust?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Rocklayers #Geology #Minerals"
+  },
+  {
+    "id": "sci-014",
+    "category": "Science",
+    "question": "What does DNA stand for?",
+    "answer": "Deoxyribonucleic acid",
+    "explanation": "You share roughly 60% of your genes with a banana.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a glowing double helix DNA strand; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "dna",
+      "double helix",
+      "genetics"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What does DNA stand for? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Deoxyribonucleic acid ✅ You share roughly 60% of your genes with a banana.",
+    "instagram_caption": "What does DNA stand for?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Dna #Doublehelix #Genetics"
+  },
+  {
+    "id": "sci-015",
+    "category": "Science",
+    "question": "If you stretched out the DNA in a single human cell, about how long would it be?",
+    "answer": "About 2 meters",
+    "explanation": "All of it is packed into a nucleus only a few millionths of a meter wide.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a microscopic cell nucleus with tightly coiled glowing threads; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "cell nucleus",
+      "dna",
+      "microscope"
+    ],
+    "x_post": "Test your brain: If you stretched out the DNA in a single human cell, about how long would it be? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About 2 meters ✅ All of it is packed into a nucleus only a few millionths of a meter wide.",
+    "instagram_caption": "If you stretched out the DNA in a single human cell, about how long would it be?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Cellnucleus #Dna #Microscope"
+  },
+  {
+    "id": "sci-016",
+    "category": "Science",
+    "question": "What is absolute zero in degrees Celsius?",
+    "answer": "−273.15 °C",
+    "explanation": "It's the lowest possible temperature; scientists have cooled atoms to within billionths of a degree of it.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of frosty icy crystals in deep blue light; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "absolute zero",
+      "ice crystals",
+      "cold"
+    ],
+    "x_post": "Most people get this wrong 👀 What is absolute zero in degrees Celsius? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: −273.15 °C ✅ It's the lowest possible temperature; scientists have cooled atoms to within billionths of a degree of it.",
+    "instagram_caption": "What is absolute zero in degrees Celsius?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Absolutezero #Icecrystals #Cold"
+  },
+  {
+    "id": "sci-017",
+    "category": "Science",
+    "question": "Which blood type is the universal red-cell donor?",
+    "answer": "O negative",
+    "explanation": "Its red cells lack A, B and Rh antigens, so emergency rooms use it when there's no time to test.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of blood donation bags in a clean hospital setting; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "blood donation",
+      "hospital",
+      "blood bag"
+    ],
+    "x_post": "Trivia time! Which blood type is the universal red-cell donor? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: O negative ✅ Its red cells lack A, B and Rh antigens, so emergency rooms use it when there's no time to test.",
+    "instagram_caption": "Which blood type is the universal red-cell donor?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Blooddonation #Hospital #Bloodbag"
+  },
+  {
+    "id": "sci-018",
+    "category": "Science",
+    "question": "What is the smallest bone in the human body?",
+    "answer": "The stapes",
+    "explanation": "It's in the middle ear and is only about 3 mm long.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a macro view of the inner ear anatomy rendered artistically; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "ear anatomy",
+      "stapes",
+      "hearing"
+    ],
+    "x_post": "Think you know? What is the smallest bone in the human body? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The stapes ✅ It's in the middle ear and is only about 3 mm long.",
+    "instagram_caption": "What is the smallest bone in the human body?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Earanatomy #Stapes #Hearing"
+  },
+  {
+    "id": "sci-019",
+    "category": "Science",
+    "question": "About how fast does sound travel in air at room temperature?",
+    "answer": "About 343 m/s",
+    "explanation": "That's why you can estimate a storm's distance: about 3 seconds between lightning and thunder per kilometer.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a lightning bolt striking over a dark plain; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "lightning",
+      "thunderstorm",
+      "sound"
+    ],
+    "x_post": "Quick trivia! About how fast does sound travel in air at room temperature? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About 343 m/s ✅ That's why you can estimate a storm's distance: about 3 seconds between lightning and thunder per kilometer.",
+    "instagram_caption": "About how fast does sound travel in air at room temperature?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Lightning #Thunderstorm #Sound"
+  },
+  {
+    "id": "sci-020",
+    "category": "Science",
+    "question": "Which vitamin does your skin make when exposed to sunlight?",
+    "answer": "Vitamin D",
+    "explanation": "UVB light converts a cholesterol compound in the skin into a vitamin D precursor.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a person basking in warm sunlight on a beach; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sunlight",
+      "vitamin d",
+      "beach"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which vitamin does your skin make when exposed to sunlight? #Science #ScienceFacts\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Vitamin D ✅ UVB light converts a cholesterol compound in the skin into a vitamin D precursor.",
+    "instagram_caption": "Which vitamin does your skin make when exposed to sunlight?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Science #ScienceFacts #Trivia #DidYouKnow #FunFacts #Sunlight #Vitamind #Beach"
+  },
+  {
+    "id": "nat-001",
+    "category": "Nature & Animals",
+    "question": "How many hearts does an octopus have?",
+    "answer": "Three",
+    "explanation": "Two pump blood through the gills, one to the body, and its blood is blue thanks to copper.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of an octopus gliding over a coral reef; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "octopus",
+      "coral reef",
+      "ocean"
+    ],
+    "x_post": "Test your brain: How many hearts does an octopus have? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Three ✅ Two pump blood through the gills, one to the body, and its blood is blue thanks to copper.",
+    "instagram_caption": "How many hearts does an octopus have?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Octopus #Coralreef #Ocean"
+  },
+  {
+    "id": "nat-002",
+    "category": "Nature & Animals",
+    "question": "What is the only mammal capable of true powered flight?",
+    "answer": "The bat",
+    "explanation": "Flying squirrels and sugar gliders only glide; bats flap wings made of skin stretched over long fingers.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a bat in flight silhouetted against a full moon; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "bat",
+      "flight",
+      "full moon"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the only mammal capable of true powered flight? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The bat ✅ Flying squirrels and sugar gliders only glide; bats flap wings made of skin stretched over long fingers.",
+    "instagram_caption": "What is the only mammal capable of true powered flight?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Bat #Flight #Fullmoon"
+  },
+  {
+    "id": "nat-003",
+    "category": "Nature & Animals",
+    "question": "Which animal produces cube-shaped poop?",
+    "answer": "The wombat",
+    "explanation": "Varying elasticity in its intestinal walls shapes the cubes, which wombats use to mark territory.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a wombat in Australian bushland at golden hour; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "wombat",
+      "australia",
+      "wildlife"
+    ],
+    "x_post": "Trivia time! Which animal produces cube-shaped poop? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The wombat ✅ Varying elasticity in its intestinal walls shapes the cubes, which wombats use to mark territory.",
+    "instagram_caption": "Which animal produces cube-shaped poop?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Wombat #Australia #Wildlife"
+  },
+  {
+    "id": "nat-004",
+    "category": "Nature & Animals",
+    "question": "What color is a polar bear's skin?",
+    "answer": "Black",
+    "explanation": "Its fur is actually translucent and hollow; it looks white because it scatters light.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a polar bear walking across sea ice; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "polar bear",
+      "arctic",
+      "sea ice"
+    ],
+    "x_post": "Think you know? What color is a polar bear's skin? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Black ✅ Its fur is actually translucent and hollow; it looks white because it scatters light.",
+    "instagram_caption": "What color is a polar bear's skin?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Polarbear #Arctic #Seaice"
+  },
+  {
+    "id": "nat-005",
+    "category": "Nature & Animals",
+    "question": "Which is the only group of birds that can fly backwards?",
+    "answer": "Hummingbirds",
+    "explanation": "Their wings rotate in a figure-eight motion, beating up to about 80 times a second in small species.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a hummingbird hovering at a vivid flower; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "hummingbird",
+      "flower",
+      "hover"
+    ],
+    "x_post": "Quick trivia! Which is the only group of birds that can fly backwards? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Hummingbirds ✅ Their wings rotate in a figure-eight motion, beating up to about 80 times a second in small species.",
+    "instagram_caption": "Which is the only group of birds that can fly backwards?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Hummingbird #Flower #Hover"
+  },
+  {
+    "id": "nat-006",
+    "category": "Nature & Animals",
+    "question": "Why are flamingos pink?",
+    "answer": "Pigments in their food",
+    "explanation": "Carotenoids in algae and brine shrimp tint their feathers; flamingos hatch grey-white.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a flock of pink flamingos in a shallow lagoon; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "flamingos",
+      "lagoon",
+      "pink birds"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Why are flamingos pink? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Pigments in their food ✅ Carotenoids in algae and brine shrimp tint their feathers; flamingos hatch grey-white.",
+    "instagram_caption": "Why are flamingos pink?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Flamingos #Lagoon #Pinkbirds"
+  },
+  {
+    "id": "nat-007",
+    "category": "Nature & Animals",
+    "question": "What is a group of crows called?",
+    "answer": "A murder",
+    "explanation": "Crows can recognize individual human faces and remember people who threatened them.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a group of crows on a bare tree in fog; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "crows",
+      "ravens",
+      "foggy tree"
+    ],
+    "x_post": "Test your brain: What is a group of crows called? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: A murder ✅ Crows can recognize individual human faces and remember people who threatened them.",
+    "instagram_caption": "What is a group of crows called?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Crows #Ravens #Foggytree"
+  },
+  {
+    "id": "nat-008",
+    "category": "Nature & Animals",
+    "question": "What is the tallest tree species on Earth?",
+    "answer": "Coast redwood",
+    "explanation": "The tallest known, 'Hyperion', is about 116 m tall, taller than the Statue of Liberty with its pedestal.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of looking up at towering redwoods with sunbeams; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "redwood",
+      "forest",
+      "tall trees"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the tallest tree species on Earth? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Coast redwood ✅ The tallest known, 'Hyperion', is about 116 m tall, taller than the Statue of Liberty with its pedestal.",
+    "instagram_caption": "What is the tallest tree species on Earth?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Redwood #Forest #Talltrees"
+  },
+  {
+    "id": "nat-009",
+    "category": "Nature & Animals",
+    "question": "What is the largest animal ever known to have lived?",
+    "answer": "The blue whale",
+    "explanation": "It's heavier than any known dinosaur; its heart is roughly the size of a small car.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a blue whale swimming in sunlit open ocean; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "blue whale",
+      "ocean",
+      "whale"
+    ],
+    "x_post": "Trivia time! What is the largest animal ever known to have lived? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The blue whale ✅ It's heavier than any known dinosaur; its heart is roughly the size of a small car.",
+    "instagram_caption": "What is the largest animal ever known to have lived?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Bluewhale #Ocean #Whale"
+  },
+  {
+    "id": "nat-010",
+    "category": "Nature & Animals",
+    "question": "About how often does a sloth climb down from its tree to poop?",
+    "answer": "About once a week",
+    "explanation": "It's the riskiest part of a sloth's life, yet they still descend to the ground to do it.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a three-toed sloth hanging in a rainforest canopy; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sloth",
+      "rainforest",
+      "costa rica"
+    ],
+    "x_post": "Think you know? About how often does a sloth climb down from its tree to poop? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About once a week ✅ It's the riskiest part of a sloth's life, yet they still descend to the ground to do it.",
+    "instagram_caption": "About how often does a sloth climb down from its tree to poop?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Sloth #Rainforest #Costarica"
+  },
+  {
+    "id": "nat-011",
+    "category": "Nature & Animals",
+    "question": "Which animal has the largest eyes in the animal kingdom?",
+    "answer": "The colossal squid",
+    "explanation": "Its eyes can be about 27 cm across, roughly the size of a dinner plate.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a giant squid in the deep dark ocean with a huge glowing eye; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "giant squid",
+      "deep sea",
+      "ocean"
+    ],
+    "x_post": "Quick trivia! Which animal has the largest eyes in the animal kingdom? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The colossal squid ✅ Its eyes can be about 27 cm across, roughly the size of a dinner plate.",
+    "instagram_caption": "Which animal has the largest eyes in the animal kingdom?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Giantsquid #Deepsea #Ocean"
+  },
+  {
+    "id": "nat-012",
+    "category": "Nature & Animals",
+    "question": "Which animal has fingerprints so similar to ours they could confuse a crime scene?",
+    "answer": "The koala",
+    "explanation": "Koala fingerprints evolved independently and look remarkably like human ones even under a microscope.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a koala gripping a eucalyptus branch, close-up of its paw; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "koala",
+      "eucalyptus",
+      "australia"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Which animal has fingerprints so similar to ours they could confuse a crime scene? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The koala ✅ Koala fingerprints evolved independently and look remarkably like human ones even under a microscope.",
+    "instagram_caption": "Which animal has fingerprints so similar to ours they could confuse a crime scene?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Koala #Eucalyptus #Australia"
+  },
+  {
+    "id": "nat-013",
+    "category": "Nature & Animals",
+    "question": "Why do sea otters hold hands while sleeping?",
+    "answer": "So they don't drift apart",
+    "explanation": "Groups of floating otters are called rafts, and some wrap themselves in kelp to stay anchored.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of two sea otters floating on their backs holding paws; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sea otters",
+      "kelp",
+      "ocean"
+    ],
+    "x_post": "Test your brain: Why do sea otters hold hands while sleeping? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: So they don't drift apart ✅ Groups of floating otters are called rafts, and some wrap themselves in kelp to stay anchored.",
+    "instagram_caption": "Why do sea otters hold hands while sleeping?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Seaotters #Kelp #Ocean"
+  },
+  {
+    "id": "nat-014",
+    "category": "Nature & Animals",
+    "question": "Which microscopic animal survived direct exposure to outer space in 2007?",
+    "answer": "The tardigrade",
+    "explanation": "Some survived the vacuum and radiation on the FOTON-M3 mission and later reproduced.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a microscopic tardigrade water bear in vivid detail; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "tardigrade",
+      "water bear",
+      "microscope"
+    ],
+    "x_post": "Most people get this wrong 👀 Which microscopic animal survived direct exposure to outer space in 2007? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The tardigrade ✅ Some survived the vacuum and radiation on the FOTON-M3 mission and later reproduced.",
+    "instagram_caption": "Which microscopic animal survived direct exposure to outer space in 2007?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Tardigrade #Waterbear #Microscope"
+  },
+  {
+    "id": "nat-015",
+    "category": "Nature & Animals",
+    "question": "Which food is famous for essentially never spoiling if sealed?",
+    "answer": "Honey",
+    "explanation": "Its low water content and acidity make it hostile to microbes.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of an ancient clay jar overflowing with golden honey; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "honey",
+      "honey jar",
+      "ancient"
+    ],
+    "x_post": "Trivia time! Which food is famous for essentially never spoiling if sealed? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Honey ✅ Its low water content and acidity make it hostile to microbes.",
+    "instagram_caption": "Which food is famous for essentially never spoiling if sealed?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Honey #Honeyjar #Ancient"
+  },
+  {
+    "id": "nat-016",
+    "category": "Nature & Animals",
+    "question": "Which crustacean punches so fast it makes the water around it boil in tiny bubbles?",
+    "answer": "The mantis shrimp",
+    "explanation": "Its strike creates cavitation bubbles whose collapse adds a second shockwave hit.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a rainbow-colored mantis shrimp on a reef; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "mantis shrimp",
+      "reef",
+      "crustacean"
+    ],
+    "x_post": "Think you know? Which crustacean punches so fast it makes the water around it boil in tiny bubbles? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The mantis shrimp ✅ Its strike creates cavitation bubbles whose collapse adds a second shockwave hit.",
+    "instagram_caption": "Which crustacean punches so fast it makes the water around it boil in tiny bubbles?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Mantisshrimp #Reef #Crustacean"
+  },
+  {
+    "id": "nat-017",
+    "category": "Nature & Animals",
+    "question": "In seahorses, which parent gives birth?",
+    "answer": "The male",
+    "explanation": "Females deposit eggs into the male's pouch, where he fertilizes and carries them until birth.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a seahorse among seagrass in clear water; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "seahorse",
+      "seagrass",
+      "underwater"
+    ],
+    "x_post": "Quick trivia! In seahorses, which parent gives birth? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The male ✅ Females deposit eggs into the male's pouch, where he fertilizes and carries them until birth.",
+    "instagram_caption": "In seahorses, which parent gives birth?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Seahorse #Seagrass #Underwater"
+  },
+  {
+    "id": "nat-018",
+    "category": "Nature & Animals",
+    "question": "Some species of which plant can grow about 90 cm in a single day?",
+    "answer": "Bamboo",
+    "explanation": "Some bamboo grows so fast you could almost watch it.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a dense bamboo forest with light filtering through; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "bamboo forest",
+      "japan",
+      "green"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Some species of which plant can grow about 90 cm in a single day? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Bamboo ✅ Some bamboo grows so fast you could almost watch it.",
+    "instagram_caption": "Some species of which plant can grow about 90 cm in a single day?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Bambooforest #Japan #Green"
+  },
+  {
+    "id": "nat-019",
+    "category": "Nature & Animals",
+    "question": "Which Mexican salamander can regrow limbs, parts of its heart and spinal cord?",
+    "answer": "The axolotl",
+    "explanation": "It stays in its larval form its whole life and is critically endangered in the wild.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a pink axolotl smiling in a clear aquarium; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "axolotl",
+      "salamander",
+      "aquarium"
+    ],
+    "x_post": "Test your brain: Which Mexican salamander can regrow limbs, parts of its heart and spinal cord? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The axolotl ✅ It stays in its larval form its whole life and is critically endangered in the wild.",
+    "instagram_caption": "Which Mexican salamander can regrow limbs, parts of its heart and spinal cord?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Axolotl #Salamander #Aquarium"
+  },
+  {
+    "id": "nat-020",
+    "category": "Nature & Animals",
+    "question": "What is the fastest land animal?",
+    "answer": "The cheetah",
+    "explanation": "It can hit around 100 km/h but only for short sprints before overheating.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a cheetah sprinting across the savanna; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "cheetah",
+      "savanna",
+      "speed"
+    ],
+    "x_post": "Most people get this wrong 👀 What is the fastest land animal? #Animals #Nature\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: The cheetah ✅ It can hit around 100 km/h but only for short sprints before overheating.",
+    "instagram_caption": "What is the fastest land animal?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Animals #Nature #Trivia #DidYouKnow #FunFacts #Cheetah #Savanna #Speed"
+  },
+  {
+    "id": "spc-001",
+    "category": "Space",
+    "question": "On which planet is a day longer than its year?",
+    "answer": "Venus",
+    "explanation": "Venus takes 243 Earth days to spin once but only 225 to orbit the Sun.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of Venus glowing in a dark sky with thick swirling clouds; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "venus",
+      "planet",
+      "space"
+    ],
+    "x_post": "Trivia time! On which planet is a day longer than its year? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Venus ✅ Venus takes 243 Earth days to spin once but only 225 to orbit the Sun.",
+    "instagram_caption": "On which planet is a day longer than its year?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Venus #Planet"
+  },
+  {
+    "id": "spc-002",
+    "category": "Space",
+    "question": "Which is the hottest planet in our solar system?",
+    "answer": "Venus",
+    "explanation": "Its thick CO2 atmosphere traps heat to about 465°C, hotter than Mercury despite being farther from the Sun.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a hellish volcanic Venus surface under orange clouds; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "venus surface",
+      "volcano",
+      "planet"
+    ],
+    "x_post": "Think you know? Which is the hottest planet in our solar system? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Venus ✅ Its thick CO2 atmosphere traps heat to about 465°C, hotter than Mercury despite being farther from the Sun.",
+    "instagram_caption": "Which is the hottest planet in our solar system?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Venussurface #Volcano #Planet"
+  },
+  {
+    "id": "spc-003",
+    "category": "Space",
+    "question": "About how long does sunlight take to reach Earth?",
+    "answer": "About 8 minutes 20 seconds",
+    "explanation": "If the Sun vanished, we wouldn't notice for over 8 minutes.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of the Sun rising over Earth's curved horizon from orbit; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sunrise from space",
+      "earth",
+      "sun"
+    ],
+    "x_post": "Quick trivia! About how long does sunlight take to reach Earth? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About 8 minutes 20 seconds ✅ If the Sun vanished, we wouldn't notice for over 8 minutes.",
+    "instagram_caption": "About how long does sunlight take to reach Earth?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Sunrisefromspace #Earth #Sun"
+  },
+  {
+    "id": "spc-004",
+    "category": "Space",
+    "question": "Who was the first human in space?",
+    "answer": "Yuri Gagarin",
+    "explanation": "His 1961 flight lasted 108 minutes, and he ejected to land by parachute separately from his capsule.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a vintage spherical space capsule against Earth; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "vostok",
+      "space capsule",
+      "cosmonaut"
+    ],
+    "x_post": "Bet you can't get this one 🧠 Who was the first human in space? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Yuri Gagarin ✅ His 1961 flight lasted 108 minutes, and he ejected to land by parachute separately from his capsule.",
+    "instagram_caption": "Who was the first human in space?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Vostok #Spacecapsule #Cosmonaut"
+  },
+  {
+    "id": "spc-005",
+    "category": "Space",
+    "question": "Which planet is the largest in our solar system?",
+    "answer": "Jupiter",
+    "explanation": "It has more than twice the mass of all the other planets combined.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of Jupiter with its swirling bands seen up close; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "jupiter",
+      "gas giant",
+      "planet"
+    ],
+    "x_post": "Test your brain: Which planet is the largest in our solar system? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Jupiter ✅ It has more than twice the mass of all the other planets combined.",
+    "instagram_caption": "Which planet is the largest in our solar system?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Jupiter #Gasgiant #Planet"
+  },
+  {
+    "id": "spc-006",
+    "category": "Space",
+    "question": "Which planet has the most known moons?",
+    "answer": "Saturn",
+    "explanation": "In 2025 astronomers announced 128 new moons, bringing Saturn's total to 274.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of Saturn and its rings with many small moons; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "saturn",
+      "rings",
+      "moons"
+    ],
+    "x_post": "Most people get this wrong 👀 Which planet has the most known moons? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Saturn ✅ In 2025 astronomers announced 128 new moons, bringing Saturn's total to 274.",
+    "instagram_caption": "Which planet has the most known moons?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Saturn #Rings #Moons"
+  },
+  {
+    "id": "spc-007",
+    "category": "Space",
+    "question": "What is the tallest known volcano in the solar system?",
+    "answer": "Olympus Mons",
+    "explanation": "On Mars, it rises about 22 km, roughly 2.5 times the height of Everest.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a colossal Martian volcano under a dusty pink sky; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "olympus mons",
+      "mars",
+      "volcano"
+    ],
+    "x_post": "Trivia time! What is the tallest known volcano in the solar system? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Olympus Mons ✅ On Mars, it rises about 22 km, roughly 2.5 times the height of Everest.",
+    "instagram_caption": "What is the tallest known volcano in the solar system?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Olympusmons #Mars #Volcano"
+  },
+  {
+    "id": "spc-008",
+    "category": "Space",
+    "question": "Which planet spins on its side?",
+    "answer": "Uranus",
+    "explanation": "Its axis is tilted about 98°, so each pole gets about 42 years of continuous sunlight.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of the pale cyan planet Uranus with faint vertical rings; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "uranus",
+      "ice giant",
+      "planet"
+    ],
+    "x_post": "Think you know? Which planet spins on its side? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Uranus ✅ Its axis is tilted about 98°, so each pole gets about 42 years of continuous sunlight.",
+    "instagram_caption": "Which planet spins on its side?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Uranus #Icegiant #Planet"
+  },
+  {
+    "id": "spc-009",
+    "category": "Space",
+    "question": "Why could astronauts' footprints on the Moon last for millions of years?",
+    "answer": "No wind or weather",
+    "explanation": "With no atmosphere, only rare micrometeorite impacts slowly erode them.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a crisp astronaut boot print in grey lunar dust; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "moon footprint",
+      "lunar surface",
+      "apollo"
+    ],
+    "x_post": "Quick trivia! Why could astronauts' footprints on the Moon last for millions of years? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: No wind or weather ✅ With no atmosphere, only rare micrometeorite impacts slowly erode them.",
+    "instagram_caption": "Why could astronauts' footprints on the Moon last for millions of years?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Moonfootprint #Lunarsurface #Apollo"
+  },
+  {
+    "id": "spc-010",
+    "category": "Space",
+    "question": "What was the first artificial satellite?",
+    "answer": "Sputnik 1",
+    "explanation": "Launched in 1957, it was a beeping metal sphere about the size of a beach ball.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of a shiny metal sphere with antennas orbiting Earth; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sputnik",
+      "satellite",
+      "space race"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What was the first artificial satellite? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Sputnik 1 ✅ Launched in 1957, it was a beeping metal sphere about the size of a beach ball.",
+    "instagram_caption": "What was the first artificial satellite?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Sputnik #Satellite #Spacerace"
+  },
+  {
+    "id": "spc-011",
+    "category": "Space",
+    "question": "Roughly how much would a teaspoon of neutron star weigh on Earth?",
+    "answer": "About a billion tonnes",
+    "explanation": "Neutron stars pack more than the Sun's mass into a sphere about the size of a city.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a glowing neutron star with magnetic beams in space; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "neutron star",
+      "pulsar",
+      "space"
+    ],
+    "x_post": "Test your brain: Roughly how much would a teaspoon of neutron star weigh on Earth? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: About a billion tonnes ✅ Neutron stars pack more than the Sun's mass into a sphere about the size of a city.",
+    "instagram_caption": "Roughly how much would a teaspoon of neutron star weigh on Earth?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Neutronstar #Pulsar"
+  },
+  {
+    "id": "spc-012",
+    "category": "Space",
+    "question": "Which star is closest to our Sun?",
+    "answer": "Proxima Centauri",
+    "explanation": "It's about 4.24 light-years away; our fastest probes would take thousands of years to get there.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a red dwarf star glowing near a distant bright star pair; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "proxima centauri",
+      "star",
+      "red dwarf"
+    ],
+    "x_post": "Most people get this wrong 👀 Which star is closest to our Sun? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Proxima Centauri ✅ It's about 4.24 light-years away; our fastest probes would take thousands of years to get there.",
+    "instagram_caption": "Which star is closest to our Sun?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Proximacentauri #Star #Reddwarf"
+  },
+  {
+    "id": "spc-013",
+    "category": "Space",
+    "question": "Which galaxy is on a collision course with the Milky Way?",
+    "answer": "Andromeda",
+    "explanation": "The merger is expected in about 4 to 5 billion years; individual stars will very rarely collide.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of two spiral galaxies merging in deep space; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "andromeda",
+      "galaxy collision",
+      "milky way"
+    ],
+    "x_post": "Trivia time! Which galaxy is on a collision course with the Milky Way? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Andromeda ✅ The merger is expected in about 4 to 5 billion years; individual stars will very rarely collide.",
+    "instagram_caption": "Which galaxy is on a collision course with the Milky Way?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Andromeda #Galaxycollision #Milkyway"
+  },
+  {
+    "id": "spc-014",
+    "category": "Space",
+    "question": "How many people have walked on the Moon?",
+    "answer": "12",
+    "explanation": "All of them walked between 1969 and 1972 on six Apollo missions.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of an astronaut standing on the Moon with Earth in the sky; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "astronaut",
+      "moon landing",
+      "apollo"
+    ],
+    "x_post": "Think you know? How many people have walked on the Moon? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 12 ✅ All of them walked between 1969 and 1972 on six Apollo missions.",
+    "instagram_caption": "How many people have walked on the Moon?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Astronaut #Moonlanding #Apollo"
+  },
+  {
+    "id": "spc-015",
+    "category": "Space",
+    "question": "Which planet has the Great Red Spot?",
+    "answer": "Jupiter",
+    "explanation": "It's a storm larger than Earth that has been observed for over 150 years.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of close-up of Jupiter's Great Red Spot swirling; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "great red spot",
+      "jupiter",
+      "storm"
+    ],
+    "x_post": "Quick trivia! Which planet has the Great Red Spot? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Jupiter ✅ It's a storm larger than Earth that has been observed for over 150 years.",
+    "instagram_caption": "Which planet has the Great Red Spot?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Greatredspot #Jupiter #Storm"
+  },
+  {
+    "id": "spc-016",
+    "category": "Space",
+    "question": "What gas makes up most of the Sun's mass?",
+    "answer": "Hydrogen",
+    "explanation": "About 73% of the Sun is hydrogen, fused into helium in its core.",
+    "difficulty": "easy",
+    "image_prompt": "Vivid, high-detail image of close-up of the Sun's surface with solar flares; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "sun",
+      "solar flare",
+      "star"
+    ],
+    "x_post": "Bet you can't get this one 🧠 What gas makes up most of the Sun's mass? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Hydrogen ✅ About 73% of the Sun is hydrogen, fused into helium in its core.",
+    "instagram_caption": "What gas makes up most of the Sun's mass?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Sun #Solarflare #Star"
+  },
+  {
+    "id": "spc-017",
+    "category": "Space",
+    "question": "What color are sunsets on Mars?",
+    "answer": "Blue",
+    "explanation": "Fine Martian dust scatters blue light forward near the Sun, the reverse of Earth's red sunsets.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of a blue sunset over a red Martian desert landscape; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "mars sunset",
+      "mars",
+      "red planet"
+    ],
+    "x_post": "Test your brain: What color are sunsets on Mars? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Blue ✅ Fine Martian dust scatters blue light forward near the Sun, the reverse of Earth's red sunsets.",
+    "instagram_caption": "What color are sunsets on Mars?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Marssunset #Mars #Redplanet"
+  },
+  {
+    "id": "spc-018",
+    "category": "Space",
+    "question": "In what year was Pluto reclassified as a dwarf planet?",
+    "answer": "2006",
+    "explanation": "The IAU's new definition required a planet to clear its orbital neighborhood, which Pluto doesn't.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of Pluto with its heart-shaped icy plain; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "pluto",
+      "dwarf planet",
+      "new horizons"
+    ],
+    "x_post": "Most people get this wrong 👀 In what year was Pluto reclassified as a dwarf planet? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: 2006 ✅ The IAU's new definition required a planet to clear its orbital neighborhood, which Pluto doesn't.",
+    "instagram_caption": "In what year was Pluto reclassified as a dwarf planet?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Pluto #Dwarfplanet #Newhorizons"
+  },
+  {
+    "id": "spc-019",
+    "category": "Space",
+    "question": "Which spacecraft became the first to enter interstellar space?",
+    "answer": "Voyager 1",
+    "explanation": "Launched in 1977, it crossed the heliopause in 2012 and still sends data home.",
+    "difficulty": "medium",
+    "image_prompt": "Vivid, high-detail image of a lone space probe with a large dish antenna drifting among stars; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "voyager 1",
+      "space probe",
+      "interstellar"
+    ],
+    "x_post": "Trivia time! Which spacecraft became the first to enter interstellar space? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Voyager 1 ✅ Launched in 1977, it crossed the heliopause in 2012 and still sends data home.",
+    "instagram_caption": "Which spacecraft became the first to enter interstellar space?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Voyager1 #Spaceprobe #Interstellar"
+  },
+  {
+    "id": "spc-020",
+    "category": "Space",
+    "question": "What did Apollo astronauts say Moon dust smelled like?",
+    "answer": "Spent gunpowder",
+    "explanation": "They noticed it after bringing dust into the cabin on their suits.",
+    "difficulty": "hard",
+    "image_prompt": "Vivid, high-detail image of grey lunar dust on an astronaut's suit inside a capsule; cinematic lighting, rich color, square composition, no text, letters or numbers anywhere in the image.",
+    "image_search_terms": [
+      "moon dust",
+      "apollo",
+      "astronaut"
+    ],
+    "x_post": "Think you know? What did Apollo astronauts say Moon dust smelled like? #Space #Astronomy\n\nAnswer in the thread 👇",
+    "x_reply": "Answer: Spent gunpowder ✅ They noticed it after bringing dust into the cabin on their suits.",
+    "instagram_caption": "What did Apollo astronauts say Moon dust smelled like?\n\n🤔 Lock in your guess, then swipe ➡️ for the answer (or check the comments)!\n\n#Space #Astronomy #Trivia #DidYouKnow #FunFacts #Moondust #Apollo #Astronaut"
+  }
+]

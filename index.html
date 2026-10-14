@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1e1b4b"><title>Trivia Swipe</title>
+<link rel="stylesheet" href="style.css"></head><body>
+<section id="home" class="screen active">
+  <header><h1>Trivia<span>Swipe</span></h1><p>Pick a category</p></header>
+  <div id="cats" class="cats"></div>
+</section>
+<section id="play" class="screen">
+  <div class="topbar">
+    <button id="back" class="iconbtn" aria-label="Back to categories">‹ Categories</button>
+    <span id="progress" class="progress"></span>
+  </div>
+  <div class="stage"><div id="doneBox" class="face" style="display:none;position:relative;flex:1"></div><div id="card" class="card"><div class="inner">
+    <div class="face front"><div class="meta"><span id="cat" class="chip"></span><span id="diff" class="badge"></span></div>
+      <div id="q" class="q"></div><div class="hint">← swipe left to reveal · swipe right for next →</div></div>
+    <div class="face back"><div class="meta"><span class="chip">Answer</span><span id="diff2" class="badge"></span></div>
+      <div id="a" class="a"></div><div id="ex" class="ex"></div><div class="hint">swipe right for next →</div></div>
+  </div></div></div>
+  <div class="controls"><button id="reveal" class="btn">Reveal ←</button><button id="next" class="btn primary">Next →</button></div>
+</section>
+<script src="app.js"></script></body></html>
