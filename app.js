@@ -30,22 +30,28 @@ function render(){
   $("q").textContent=it.question;$("a").textContent=it.answer;$("ex").textContent=it.explanation;
   $("progress").textContent=`${i+1} / ${deck.length}`;
 }
-function reveal(){if(i<deck.length){flipped=!flipped;$("card").classList.toggle("flipped",flipped)}}
-function next(){if(i>=deck.length)return;const c=$("card");c.style.transform="translateY(-120%) rotate(-4deg)";c.style.opacity=0;
-  setTimeout(()=>{i++;c.classList.add("drag");c.style.transform="translateY(30%)";render();
-    requestAnimationFrame(()=>requestAnimationFrame(()=>{c.classList.remove("drag");c.style.transform="";c.style.opacity=1}))},250)}
-$("reveal").onclick=reveal;$("next").onclick=next;$("back").onclick=()=>{show("home");renderCats()};
+// i indexes the fixed shuffled deck, so it doubles as the history: prev returns the exact earlier question
+function setFlip(v){if(i>=deck.length||flipped===v)return;flipped=v;$("card").classList.toggle("flipped",v)}
+const reveal=()=>setFlip(true), unreveal=()=>setFlip(false);
+let busy=false;
+function go(d){const c=$("card");
+  if(busy||(d>0&&i>=deck.length))return;
+  if(d<0&&i<=0){c.animate([{transform:"translateY(0)"},{transform:"translateY(24px)"},{transform:"translateY(0)"}],{duration:300,easing:"ease-out"});return}
+  busy=true;c.style.transform=`translateY(${d>0?-120:120}%) rotate(${d>0?-4:4}deg)`;c.style.opacity=0;
+  setTimeout(()=>{i+=d;c.classList.add("drag");c.style.transform=`translateY(${d>0?30:-30}%)`;render();
+    requestAnimationFrame(()=>requestAnimationFrame(()=>{c.classList.remove("drag");c.style.transform="";c.style.opacity=1;busy=false}))},250)}
+const next=()=>go(1), prev=()=>go(-1);
+$("reveal").onclick=reveal;$("unreveal").onclick=unreveal;$("next").onclick=next;$("prev").onclick=prev;
+$("back").onclick=()=>{show("home");renderCats()};
 document.addEventListener("keydown",e=>{if(!$("play").classList.contains("active"))return;
-  if(e.key==="ArrowRight"){e.preventDefault();reveal()}
-  else if(["ArrowUp","ArrowDown"," "].includes(e.key)){e.preventDefault();next()}
-  else if(e.key==="Escape")$("back").click()});
-// swipe: right = reveal/flip back, up = next, left = nothing
+  const m={ArrowLeft:reveal,ArrowRight:unreveal,ArrowUp:next," ":next,ArrowDown:prev,Escape:()=>$("back").click()}[e.key];
+  if(m){e.preventDefault();m()}});
+// swipe: left=answer, right=question, up=next, down=prev
 let sx=0,sy=0,dx=0,dy=0,down=false;const card=$("card");
-card.addEventListener("pointerdown",e=>{down=true;sx=e.clientX;sy=e.clientY;dx=dy=0;card.classList.add("drag");try{card.setPointerCapture(e.pointerId)}catch(_){}});
+card.addEventListener("pointerdown",e=>{if(busy)return;down=true;sx=e.clientX;sy=e.clientY;dx=dy=0;card.classList.add("drag");try{card.setPointerCapture(e.pointerId)}catch(_){}});
 card.addEventListener("pointermove",e=>{if(!down)return;dx=e.clientX-sx;dy=e.clientY-sy;
-  if(dx>0&&dx>Math.abs(dy))card.style.transform=`translateX(${dx*.4}px) rotate(${dx*.03}deg)`;
-  else if(dy<0&&-dy>Math.abs(dx))card.style.transform=`translateY(${dy*.5}px)`;
-  else card.style.transform=""});
+  card.style.transform=Math.abs(dx)>Math.abs(dy)?`translateX(${dx*.4}px) rotate(${dx*.03}deg)`:`translateY(${dy*.5}px)`});
 const end=()=>{if(!down)return;down=false;card.classList.remove("drag");card.style.transform="";
-  if(dx>60&&dx>Math.abs(dy))reveal();else if(dy<-60&&-dy>Math.abs(dx))next();dx=dy=0};
+  const h=Math.abs(dx)>Math.abs(dy);
+  if(h&&dx<-60)reveal();else if(h&&dx>60)unreveal();else if(!h&&dy<-60)next();else if(!h&&dy>60)prev();dx=dy=0};
 card.addEventListener("pointerup",end);card.addEventListener("pointercancel",end);
