@@ -31,16 +31,21 @@ function render(){
   $("progress").textContent=`${i+1} / ${deck.length}`;
 }
 function reveal(){if(i<deck.length){flipped=!flipped;$("card").classList.toggle("flipped",flipped)}}
-function next(){if(i>=deck.length)return;const c=$("card");c.style.transform="translateX(120%) rotate(12deg)";c.style.opacity=0;
-  setTimeout(()=>{i++;c.classList.add("drag");c.style.transform="translateX(-30%)";render();
-    requestAnimationFrame(()=>{c.classList.remove("drag");c.style.transform="";c.style.opacity=1})},250)}
+function next(){if(i>=deck.length)return;const c=$("card");c.style.transform="translateY(-120%) rotate(-4deg)";c.style.opacity=0;
+  setTimeout(()=>{i++;c.classList.add("drag");c.style.transform="translateY(30%)";render();
+    requestAnimationFrame(()=>requestAnimationFrame(()=>{c.classList.remove("drag");c.style.transform="";c.style.opacity=1}))},250)}
 $("reveal").onclick=reveal;$("next").onclick=next;$("back").onclick=()=>{show("home");renderCats()};
 document.addEventListener("keydown",e=>{if(!$("play").classList.contains("active"))return;
-  if(e.key==="ArrowLeft")reveal();else if(e.key==="ArrowRight")next();else if(e.key==="Escape")$("back").click()});
-// swipe
-let sx=0,sy=0,dx=0,down=false;const card=$("card");
-card.addEventListener("pointerdown",e=>{down=true;sx=e.clientX;sy=e.clientY;dx=0;card.classList.add("drag")});
-card.addEventListener("pointermove",e=>{if(!down)return;dx=e.clientX-sx;if(Math.abs(dx)>Math.abs(e.clientY-sy))card.style.transform=`translateX(${dx*.4}px) rotate(${dx*.03}deg)`});
+  if(e.key==="ArrowRight"){e.preventDefault();reveal()}
+  else if(["ArrowUp","ArrowDown"," "].includes(e.key)){e.preventDefault();next()}
+  else if(e.key==="Escape")$("back").click()});
+// swipe: right = reveal/flip back, up = next, left = nothing
+let sx=0,sy=0,dx=0,dy=0,down=false;const card=$("card");
+card.addEventListener("pointerdown",e=>{down=true;sx=e.clientX;sy=e.clientY;dx=dy=0;card.classList.add("drag");try{card.setPointerCapture(e.pointerId)}catch(_){}});
+card.addEventListener("pointermove",e=>{if(!down)return;dx=e.clientX-sx;dy=e.clientY-sy;
+  if(dx>0&&dx>Math.abs(dy))card.style.transform=`translateX(${dx*.4}px) rotate(${dx*.03}deg)`;
+  else if(dy<0&&-dy>Math.abs(dx))card.style.transform=`translateY(${dy*.5}px)`;
+  else card.style.transform=""});
 const end=()=>{if(!down)return;down=false;card.classList.remove("drag");card.style.transform="";
-  if(dx<-60)reveal();else if(dx>60)next();dx=0};
-card.addEventListener("pointerup",end);card.addEventListener("pointercancel",end);card.addEventListener("pointerleave",end);
+  if(dx>60&&dx>Math.abs(dy))reveal();else if(dy<-60&&-dy>Math.abs(dx))next();dx=dy=0};
+card.addEventListener("pointerup",end);card.addEventListener("pointercancel",end);

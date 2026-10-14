@@ -1,5 +1,5 @@
 *{box-sizing:border-box;margin:0;padding:0}
-html,body{height:100%;overflow:hidden;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:#fff;background:#0f0c29}
+html,body{height:100%;overflow:hidden;overscroll-behavior:none;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:#fff;background:#0f0c29}
 body{background:var(--g,linear-gradient(160deg,#0f0c29,#302b63,#24243e));transition:background .5s}
 .screen{display:none;height:100dvh;flex-direction:column;padding:max(16px,env(safe-area-inset-top)) 16px max(16px,env(safe-area-inset-bottom))}
 .screen.active{display:flex}
@@ -15,7 +15,7 @@ header p{opacity:.75;margin-top:6px}
 .iconbtn{background:rgba(255,255,255,.18);border:0;color:#fff;padding:8px 14px;border-radius:999px;font-size:.95rem;cursor:pointer}
 .progress{font-weight:700;background:rgba(0,0,0,.25);padding:6px 12px;border-radius:999px}
 .stage{flex:1;perspective:1200px;display:flex;min-height:0}
-.card{flex:1;position:relative;touch-action:pan-y;user-select:none;transition:transform .3s,opacity .3s}
+.card{flex:1;position:relative;touch-action:none;user-select:none;transition:transform .3s,opacity .3s}
 .card.drag{transition:none}
 .inner{position:absolute;inset:0;transform-style:preserve-3d;transition:transform .6s cubic-bezier(.4,.2,.2,1)}
 .card.flipped .inner{transform:rotateY(180deg)}
